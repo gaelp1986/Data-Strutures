@@ -1,0 +1,7 @@
+10 + 5 *((1+2) / 3)
+{ int x=5; cout << [x+5] <<endl; }
+while ( finish == true) { return 0; }
+X = (5+10*5;
+std:: cout<< "True");
+{ ( ( ) } )
+if (flag = = True} )
